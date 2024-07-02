@@ -1,1 +1,1 @@
-### Olá Bem-vindo, me chamo Paul!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=PaulHeny%E2%84%A2+%7C+Meu+Perfil;Pequeno+Desenvolvedor;Designer+Gr%C3%A1fico;Apaixonado+por+Tech)](https://git.io/typing-svg)
