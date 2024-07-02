@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=PaulHeny%E2%84%A2+%7C+Meu+Perfil;Pequeno+Desenvolvedor;Designer+Gr%C3%A1fico;Apaixonado+por+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Eae+Truta%2C+como+vai%3F;Bem-vindo+ao+meu+perfil;N%C3%A3o+tem+muita+coisa+legal;Mas+estou+aprendendo+pra+trazer!)](https://git.io/typing-svg)
