@@ -2,5 +2,9 @@
 
 Aqui tenho alguns projetos em adamento, pois estou praticando algumas liguagens de programação como HTML, e Python.
 
+
+### Redes Sociais
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paulhenry_oficial)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/paulhenrysantus)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@paulhenrysantus)
+
